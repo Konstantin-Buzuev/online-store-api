@@ -1,0 +1,52 @@
+[
+	{
+		"id_product": 101,
+		"product_name": "Ноутбук HP Spectre x360",
+		"price":  50000
+	},
+	{
+		"id_product": 102,
+		"product_name": "Ноутбук Samsung Notebook 7 Spin",
+		"price":  55000
+	},
+	{
+		"id_product": 103,
+		"product_name": "Ноутбук Dell XPS 15",
+		"price":  60000
+	},
+	{
+		"id_product": 104,
+		"product_name": "Ноутбук Acer Extensa 2540",
+		"price":  65000
+	},
+	{
+		"id_product": 105,
+		"product_name": "Ноутбук Asus ROG GL753VD",
+		"price":  70000
+	},
+	{
+		"id_product": 106,
+		"product_name": "Ноутбук Lenovo Ideapad 520 15",
+		"price":  75000
+	},
+	{
+		"id_product": 107,
+		"product_name": "Ноутбук Apple Macbook 12",
+		"price":  80000
+	},
+	{
+		"id_product": 108,
+		"product_name": "Ноутбук Acer Aspire VX 15 VX5-591G",
+		"price":  85000
+	},
+	{
+		"id_product": 109,
+		"product_name": "Ноутбук Asus Zenbook UX310UA",
+		"price":  90000
+	},
+	{
+		"id_product": 110,
+		"product_name": "Ноутбук Dell Inspiron 15 7567",
+		"price":  100000
+	}
+]
